@@ -1,4 +1,4 @@
-# **Heart Disease Classification in 7 steps **
+# *Heart Disease Classification in 7 steps
 This is a kaggle competition, the goal of this project is to apply everything you have covered so far in a new context: classification of heart disease.
 This competition will help introduce you to some of the differences (and the similarities) between classification problems and regression problems.
 These data(train and test) come from the UCI Machine-Learning Repository (specifically from the heart-disease dataset.
